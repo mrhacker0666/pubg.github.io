@@ -12,7 +12,7 @@
  
  
 .masthead{
-  background-image: url("https://cdn-www.bluestacks.com/bs-images/pubg-international_banner.jpg"); /* The image used */
+  background-image: url("https://mrhacker0666.github.io/pubg.github.io/img/background.jpg"); /* The image used */
   background-position: center; /* Center the image */
   height: 1000px; /* You must set a specified height */
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@
   masthead {
     /* The file size of this background image is 93% smaller
        to improve page load speed on mobile internet connections */
-    background-image: url("https://st1.bgr.in/wp-content/uploads/2018/11/PUBG-Sanhok.jpg");
+    background-image: url("https://mrhacker0666.github.io/pubg.github.io/img/background.jpg");
   }
 
 }
